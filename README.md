@@ -41,8 +41,7 @@ The models suggest that while sports betting generates government tax revenue an
 
 src/ – core modeling code  
 paper/ – final research paper  
-figures/ – graphs and model outputs  
-data/ – model parameters
+figures/ – graphs and model outputs
 
 ## Author
 
