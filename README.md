@@ -1,4 +1,4 @@
-# Gambling Impact Model (MathWorks M3 Challenge) - Top 20% of Teams in the Nation
+# Gambling Impact Model (MathWorks M3 Challenge) - Top 18% of Teams in the Nation
 
 This project analyzes the economic and behavioral impact of online sports betting using mathematical modeling and simulation.
 
