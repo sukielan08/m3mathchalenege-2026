@@ -9,14 +9,14 @@ The work was developed for the 2026 MathWorks Math Modeling Challenge.
 The project builds three models:
 
 1. Disposable Income Model
-   Estimates disposable income using income, taxes, and essential expenditures across demographics.
+   Estimates disposable income using income, taxes, and essential expenditures across demographics. It as income remaining after taxes and "essential expenditures" (housing, food, healthcare, etc.). It accounts for 2024 progressive tax brackets in both the US and UK.
 
 2. Gambling Behavior Simulation
-   Uses probabilistic modeling and Monte Carlo simulation to estimate annual betting losses.
+   Uses probabilistic modeling and Monte Carlo simulation to estimate annual betting losses. Used a risk-scoring system to calibrate "hold rates" based on behaviors like "chasing losses" and deposit frequency.
 
 3. Macroeconomic Impact Model
-   Evaluates the effect of sports betting on national GDP through tax revenue, industry production, and consumer spending substitution.
-
+   Evaluates the effect of sports betting on national GDP through tax revenue, industry production, and consumer spending substitution. It uses a "consumer substitution rate" ($\lambda$) to determine how much gambling spending replaces other economic consumption.
+   
 ## Methods
 
 Key techniques used:
